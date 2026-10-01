@@ -2,8 +2,7 @@
 ```{=html}
 <p align="center">
 ```
-`<img src="assets/project-banner.svg" alt="Netflix Content Data Engineering Project banner" width="100%">`{=html}
-```{=html}
+`<img src="assets/project-banner.svg" alt="Netflix Content Data Engineering Project banner" width="100%">
 </p>
 ```
 ```{=html}
