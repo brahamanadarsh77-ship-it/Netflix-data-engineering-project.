@@ -1,12 +1,11 @@
 # Netflix-data-engineering-project.
 <p align="center">
-```
-`<img src="assets/project-banner.svg" alt="Netflix Content Data Engineering Project banner" width="100%">
+<img src="assets/project-banner.svg" alt="Netflix Content Data Engineering Project banner" width="100%">
 </p>
-```
+
 
 <h1 align="center">
-```
+
 Netflix Content Data Engineering Pipeline
 </h1>
 ```
@@ -14,11 +13,10 @@ Netflix Content Data Engineering Pipeline
 <p align="center">
 ```
 `<b>`{=html}Incremental ingestion • Data cleaning • PySpark
-transformations • Delta Lake`</b>`{=html}
-```{=html}
+transformations • Delta Lake`</b>
 </p>
 ```
-```{=html}
+
 <p align="center">
 ```
 '<img alt="Azure" src="https://img.shields.io/badge/Azure-Data%20Lake%20Storage-0078D4?logo=microsoftazure&logoColor=white">'
