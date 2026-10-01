@@ -1,5 +1,4 @@
 # Netflix-data-engineering-project.
-```{=html}
 <p align="center">
 ```
 `<img src="assets/project-banner.svg" alt="Netflix Content Data Engineering Project banner" width="100%">
