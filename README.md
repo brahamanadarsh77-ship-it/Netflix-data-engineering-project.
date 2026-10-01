@@ -4,11 +4,10 @@
 `<img src="assets/project-banner.svg" alt="Netflix Content Data Engineering Project banner" width="100%">
 </p>
 ```
-```{=html}
+
 <h1 align="center">
 ```
 Netflix Content Data Engineering Pipeline
-```{=html}
 </h1>
 ```
 ```{=html}
