@@ -21,9 +21,9 @@ transformations • Delta Lake`</b>`{=html}
 ```{=html}
 <p align="center">
 ```
-`<img alt="Azure" src="https://img.shields.io/badge/Azure-Data%20Lake%20Storage-0078D4?logo=microsoftazure&logoColor=white">`{=html}
+'<img alt="Azure" src="https://img.shields.io/badge/Azure-Data%20Lake%20Storage-0078D4?logo=microsoftazure&logoColor=white">'
 `<img alt="Databricks" src="https://img.shields.io/badge/Platform-Azure%20Databricks-E50914?logo=databricks&logoColor=white">`{=html}
-`<img alt="PySpark" src="https://img.shields.io/badge/Processing-PySpark-E25A1C?logo=apachespark&logoColor=white">`{=html}
+`<img alt="PySpark" src="https://img.shields.io/badge/Processing-PySpark-E25A1C?logo=apachespark&logoColor=white">
 `<img alt="Delta Lake" src="https://img.shields.io/badge/Storage-Delta%20Lake-00A1E0">`{=html}
 `<img alt="Status" src="https://img.shields.io/badge/Project-Learning%20%26%20Portfolio-2ea44f">`{=html}
 ```{=html}
