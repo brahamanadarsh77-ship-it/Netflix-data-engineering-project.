@@ -8,23 +8,20 @@
 
 Netflix Content Data Engineering Pipeline
 </h1>
-```
-```{=html}
+
 <p align="center">
-```
+
 `<b>`{=html}Incremental ingestion • Data cleaning • PySpark
 transformations • Delta Lake`</b>
 </p>
-```
-
 <p align="center">
-```
+
 '<img alt="Azure" src="https://img.shields.io/badge/Azure-Data%20Lake%20Storage-0078D4?logo=microsoftazure&logoColor=white">'
-`<img alt="Databricks" src="https://img.shields.io/badge/Platform-Azure%20Databricks-E50914?logo=databricks&logoColor=white">`{=html}
+`<img alt="Databricks" src="https://img.shields.io/badge/Platform-Azure%20Databricks-E50914?logo=databricks&logoColor=white">`
 `<img alt="PySpark" src="https://img.shields.io/badge/Processing-PySpark-E25A1C?logo=apachespark&logoColor=white">
-`<img alt="Delta Lake" src="https://img.shields.io/badge/Storage-Delta%20Lake-00A1E0">`{=html}
-`<img alt="Status" src="https://img.shields.io/badge/Project-Learning%20%26%20Portfolio-2ea44f">`{=html}
-```{=html}
+`<img alt="Delta Lake" src="https://img.shields.io/badge/Storage-Delta%20Lake-00A1E0">`
+`<img alt="Status" src="https://img.shields.io/badge/Project-Learning%20%26%20Portfolio-2ea44f">`
+
 </p>
 ```
 ## 📌 Project Overview
@@ -45,13 +42,13 @@ The shared key between these datasets is `show_id`.
 
 ## 🏗️ Architecture
 
-```{=html}
+
 <p align="center">
-```
-`<img src="assets/pipeline-architecture.svg" alt="Netflix data pipeline architecture diagram" width="100%">`{=html}
-```{=html}
+
+`<img src="assets/pipeline-architecture.svg" alt="Netflix data pipeline architecture diagram" width="100%">
+
 </p>
-```
+
 ### Medallion-style layers
 
   -----------------------------------------------------------------------
@@ -120,11 +117,10 @@ Key concepts demonstrated:
 
 Example paths (adjust if your final folder layout differs):
 
-``` text
+
 abfss://raw@netflixprojectdlansh.dfs.core.windows.net/
 abfss://bronze@netflixprojectdlansh.dfs.core.windows.net/netflix_titles/
 abfss://silver@netflixprojectdlansh.dfs.core.windows.net/netflix_titles/
-```
 
 Do not commit access keys, SAS tokens, client secrets, or other
 credentials to GitHub.
@@ -245,9 +241,9 @@ own Databricks workspace** to a `screenshots/` folder, for example:
 
 Use relative image links in this README, for example:
 
-``` markdown
+
 ![Silver transformation output](screenshots/silver-output.png)
-```
+
 
 The included banner and architecture diagram are original project
 visuals; they are not screenshots of a live Azure environment.
